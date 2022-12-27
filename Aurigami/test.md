@@ -1,7 +1,0 @@
-Tile 1,2
-
-Sads
-
-# Asd
-
-assa
